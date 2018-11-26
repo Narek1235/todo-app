@@ -1,0 +1,16 @@
+.todo-list {
+  flex: 1;
+}
+
+.todo-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.is-completed {
+  text-decoration: line-through;
+}
+
+.todo-name {
+  flex-grow: 1
+}
