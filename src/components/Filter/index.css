@@ -1,0 +1,4 @@
+.todo-filter {
+  display: flex;
+  flex-direction: row;
+}
